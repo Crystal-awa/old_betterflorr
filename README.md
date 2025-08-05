@@ -1,7 +1,7 @@
 # old_betterflorr
-这是我们逝去的青春，对florr的热爱\n
-那么，betterflorr有没有诞生的故事呢？\n
-有的兄弟有的\n
+这是我们逝去的青春，对florr的热爱
+那么，betterflorr有没有诞生的故事呢？
+有的兄弟有的
 
 ## 背景
 我本人平时交不到什么朋友
